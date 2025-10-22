@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+      margin: 20px;
+      background-color: darkgray;
+}
+thead {
+    background-color: brown;
+}
+tbody {
+    background-color: lightsteelblue;
+}
+th, td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+}
